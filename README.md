@@ -9,6 +9,7 @@ okokNotify -> Only made the notification if player inventory is full in okokNoti
 # Installation
 Insert the .sql file in your database. Drag and drop this resource in your ESX folder and start it using `ensure esx_acetone` in your server.cfg.
 
+# Credits
 **Orginal script**
 https://github.com/esx-framework/esx_drugs/tree/main
 
